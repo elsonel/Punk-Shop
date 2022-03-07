@@ -1,4 +1,4 @@
-Punk Shop
+# Punk Shop
 
 A web based shop application for the browsing and purchasing of digital avatars.
 
