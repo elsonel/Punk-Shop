@@ -2,6 +2,8 @@
 
 A web based shop application for the browsing and purchasing of digital avatars.
 
+A demo is deployed here: https://a1-frontend.vercel.app
+
 ## Setup
 
 ### Back End
@@ -21,10 +23,6 @@ To run the unit tests for a1-backend:
 $ npm test
 ```
 
-Whenever there is a commit to the master branch, it automatically triggers a build + deploy on Vercel’s end. Changes are reflected shortly on the production server.
-
-A demo for the server is deployed here: https://a1-server-a1-48.vercel.app
-
 ### Front End
 
 To run a1-frontend locally:
@@ -34,11 +32,9 @@ $ npm Install
 $ npm run dev
 ```
 
-Local front end is now accessible through http://localhost:3000. The backend server must also be running locally first or else an error will be thrown saying it can not fetch data.
+Local front end is now accessible through http://localhost:3000. 
 
-Whenever there is a commit to the master branch, it automatically triggers a build + deploy on Vercel’s end. Changes are reflected shortly on the production server. The front end platform polls data from the deployed back end platform to be displayed..
-
-A demo for the front end is deployed here: https://a1-frontend.vercel.app
+The backend server must also be running locally first or else an error will be thrown saying it can not fetch data.
 
 ## User Usage Instructions
 
