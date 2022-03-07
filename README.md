@@ -4,9 +4,16 @@ A web based shop application for the browsing and purchasing of digital avatars.
 
 A demo is deployed here: https://a1-frontend.vercel.app
 
+## Dependencies
+
+* React and Next.js for frontend
+* Node.js and Express for backend
+* Vercel for deployment
+* Jest for unit tests
+
 ## Setup
 
-### Back End
+### Backend
 
 To run a1-backend locally:
 ```
@@ -23,7 +30,7 @@ To run the unit tests for a1-backend:
 $ npm test
 ```
 
-### Front End
+### Frontend
 
 To run a1-frontend locally:
 ```
