@@ -1,6 +1,6 @@
 # Punk Shop
 
-A web based shop application for the browsing and purchasing of digital avatars.
+Web based shop application mockup for the browsing and purchasing of digital avatars.
 
 A demo is deployed here: https://a1-frontend.vercel.app
 
